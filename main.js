@@ -65,6 +65,8 @@ sr.reveal('.project-box',{interval: 200})
 
 
 
+
+
 /* -- HEADINGS -- */
 sr.reveal('.top-header',{})
 
